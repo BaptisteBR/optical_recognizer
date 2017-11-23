@@ -1,11 +1,10 @@
-#! /usr/bin/python
-# -*- coding: utf-8 -*-
-
 # Author: Baptiste BRIOT--RIBEYRE
 # <baptiste.briot--ribeyre@alumni.univ-avignon.fr>
 
 """
 """
+
+
 
 from __future__ import print_function
 import tensorflow as tf
