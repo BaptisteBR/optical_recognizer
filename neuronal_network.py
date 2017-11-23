@@ -8,6 +8,9 @@
 from __future__ import print_function
 import tensorflow as tf
 
+HIDDEN_NODES = 3
+TRAINING_CYCLE = 100
+
 if __name__ == "__main__":
     
     # Create nodes 1 & 2
